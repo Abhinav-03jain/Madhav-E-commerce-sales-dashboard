@@ -77,7 +77,8 @@ The executive insights page highlights important business findings from the anal
 
 Add the dashboard screenshot here:
 
-`Dashboard_Preview.png`
+![Uploading Dashboard_Preview.png…]()
+
 
 ## 📂 Project Files
 
