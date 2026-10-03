@@ -98,6 +98,4 @@ This project demonstrates practical experience in:
 
 **Abhinav Vaidhya**
 
-Data Analyst | Power BI | SQL | Excel | Python
 
-GitHub: `Abhinav-03jain`
