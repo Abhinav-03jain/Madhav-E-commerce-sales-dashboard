@@ -77,7 +77,7 @@ The executive insights page highlights important business findings from the anal
 
 Add the dashboard screenshot here:
 
-![Uploading Dashboard_Preview.png…]()
+![Madhav E-Commerce Sales Dashboard](Dashboard_Preview.png)
 
 
 ## 📂 Project Files
